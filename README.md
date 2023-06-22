@@ -38,4 +38,5 @@
     ```shell
         $ git remote add origin https://github.com/[본인의 github username]/git-test.git
     ```
-7. 이후 클래스룸 안내에 따라 Test를 진행해주세요.
+7. 이후 아래 노션 안내에 따라 Test를 진행해주세요.
+   - [과제 안내 노션 페이지](https://www.notion.so/wecode/All-Git-Test-a13014965ce748f2949c96fff97d7979)
